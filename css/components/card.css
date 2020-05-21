@@ -1,0 +1,28 @@
+.card {
+  width: 200px;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.card img {
+  height: 100px;
+
+}
+
+.cards {
+  display: flex;
+  align-items: top;
+  justify-content: space-around;
+}
+
+.card h2 {
+margin-top: 10px;
+margin-bottom: 1px;
+}
+
+.card p {
+margin-top: 0px;
+margin-bottom: 1px;
+}

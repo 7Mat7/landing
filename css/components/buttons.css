@@ -1,0 +1,13 @@
+.btn-white {
+  transition: ease 0.3s ;
+  padding: 5px 20px;
+  text-decoration: none;
+  cursor: pointer;
+  border: solid 1px rgb(240, 240, 240);
+  color: rgb(240, 240, 240);
+}
+
+.btn-white:hover {
+  background-color: rgb(240, 240, 240);
+  color: rgb(30, 30, 30);
+}
